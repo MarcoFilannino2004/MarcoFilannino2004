@@ -12,5 +12,10 @@ network security, threat detection and incident analysis.
 
 ## Projects
 
-Projects will be added as I progress through my
-cybersecurity training.
+### Network Traffic Analysis with Wireshark
+
+Basic network traffic investigation using Wireshark, covering DNS resolution, IPv6, TCP three-way handshake and TLS communication.
+
+**Skills:** Wireshark · DNS · TCP/IP · IPv6 · TLS · Network Analysis
+
+[View Project](https://github.com/MarcoFilannino2004/network-traffic-analysis)
