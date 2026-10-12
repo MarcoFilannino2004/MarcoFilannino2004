@@ -33,5 +33,7 @@ Implementation and testing of Delegation of Control according to the principle o
 
 CyberSec Monitor è un'applicazione web che ho sviluppato per organizzare gli eventi di sicurezza informatica. Permette di inserirli manualmente o importarli da un file di log, cercarli e seguirne lo stato fino alla risoluzione. Ho utilizzato Python e Flask per la logica, MySQL per i dati e HTML, CSS, Bootstrap e JavaScript per l'interfaccia. Il codice separa le pagine, i controlli sui dati e le query al database, così ogni parte ha un compito preciso.
 
-**Skills:** Python · Flask · MySQL · HTML · CSS · JavaScript · Jinja · BootStrap  · Git · 
+**Skills:** Python · Flask · MySQL · HTML · CSS · JavaScript · Jinja · BootStrap  · Git 
+
+[View Project](https://github.com/MarcoFilannino2004/CyberSec-Monitor.git)
 
