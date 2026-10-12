@@ -20,7 +20,7 @@ Basic network traffic investigation using Wireshark, covering DNS resolution, IP
 
 [View Project](https://github.com/MarcoFilannino2004/network-traffic-analysis)
 
-## Active Directory Security Lab
+### Active Directory Security Lab
 
 Virtualized and isolated Active Directory lab with Windows Server 2025 and domain-joined Windows clients. Configuration of AD DS, DNS, OUs, users, security groups, SMB/NTFS permissions, and group policies.
 Implementation and testing of Delegation of Control according to the principle of least privilege.
@@ -28,3 +28,10 @@ Implementation and testing of Delegation of Control according to the principle o
 **Skills:** Active Directory · Group Policy · Windows Server
 
 [View Project](https://github.com/MarcoFilannino2004/active-directory-security-lab.git)
+
+### CyberSec Monitor
+
+CyberSec Monitor è un'applicazione web che ho sviluppato per organizzare gli eventi di sicurezza informatica. Permette di inserirli manualmente o importarli da un file di log, cercarli e seguirne lo stato fino alla risoluzione. Ho utilizzato Python e Flask per la logica, MySQL per i dati e HTML, CSS, Bootstrap e JavaScript per l'interfaccia. Il codice separa le pagine, i controlli sui dati e le query al database, così ogni parte ha un compito preciso.
+
+**Skills:** Python · Flask · MySQL · HTML · CSS · JavaScript · Jinja · BootStrap  · Git · 
+
